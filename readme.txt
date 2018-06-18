@@ -1,6 +1,14 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-ÄãºÃÎÒÓÖÌá½»ÁËÊı¾İ
-²âÊÔÊı¾İ
+ä½ å¥½æˆ‘åˆæäº¤äº†æ•°æ®
+æµ‹è¯•æ•°æ®
 My stupid boss still prefers SVN.
-Ìí¼ÓÒ»ÌõÊı¾İ
+æ·»åŠ ä¸€æ¡æ•°æ®
+ä½ å¥½æˆ‘åˆæäº¤äº†æ•°æ®
+æµ‹è¯•æ•°æ®
+My stupid boss still prefers SVN.
+æ·»åŠ ä¸€æ¡æ•°æ®
+ä½ å¥½æˆ‘åˆæäº¤äº†æ•°æ®
+æµ‹è¯•æ•°æ®
+My stupid boss still prefers SVN.
+æ·»åŠ ä¸€æ¡æ•°æ®
